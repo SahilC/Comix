@@ -1,0 +1,3 @@
+$var=$_GET['var'];
+echo CHtml::button('Prev',array('submit'=>array('prev','var'=>$var),'img'=>'/images/images.jpg',));
+echo CHtml::button('Next',array('submit'=>array('next','var'=>$var),'img'=>'/images/images.jpg',));
