@@ -1,5 +1,10 @@
 The database files can be found in /protected/data
-The database file is is named comics.sql.Import it into your mysql dbms(I used phpMyadmin).
-Try the project by putting all files into ur server root directory.
-Access the folders.If u have any queries, feel free to contact me.
-I have not yet included direct means of inserting into the db but will do so soon.
+The database file is is named comics.sql.
+Import it into your mysql dbms(I used phpMyadmin).
+I have not yet included means of inserting into the db so it must be done manually for now
+but will add the feature soon.
+Try the project by putting all files into ur server root directory,
+then accessing the index file.
+Access the files in the protected directory for the code of the model,views and controllers.
+For documentation on Yii check http://www.yiiframework.com/doc/
+If u have any queries or ideas on how to improve this project, feel free to contact me.
